@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Xyndro
 - 👀 I’m interested in Computer Programming in languages such as Java
 - 🌱 I’m currently learning Software Development as a track of study for college
+- I am relatively new to Github
 
 <!---
 Xyndro/Xyndro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
